@@ -1,0 +1,40 @@
+{
+    "name": "topnodejsxnpk",
+    "displayName": "TopNodeJsXnPk",
+    "description": "Most downloaded Node JS Extensions. Reference - https://developer.okta.com/blog/2019/05/08/top-vs-code-extensions-for-nodejs-developers",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.51.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "aaron-bond.better-comments", 
+        "christian-kohler.npm-intellisense", 
+        "christian-kohler.path-intellisense", 
+        "CoenraadS.bracket-pair-colorizer", 
+        "CoenraadS.bracket-pair-colorizer-2", 
+        "dbaeumer.vscode-eslint", 
+        "eg2.vscode-npm-script", 
+        "formulahendry.auto-close-tag", 
+        "hbenl.vscode-jasmine-test-adapter", 
+        "hbenl.vscode-test-explorer", 
+        "leizongmin.node-module-intellisense", 
+        "mikestead.dotenv", 
+        "mitchdenny.ecdc", 
+        "ms-vsliveshare.vsliveshare", 
+        "ms-vsliveshare.vsliveshare-audio", 
+        "ms-vsliveshare.vsliveshare-pack", 
+        "msjsdiag.debugger-for-chrome", 
+        "PKief.material-icon-theme", 
+        "pustelto.bracketeer", 
+        "vangware.dark-plus-material", 
+        "viablelab.bracket-padder", 
+        "ms-azuretools.vscode-docker",
+        "github.vscode-pull-request-github",
+        "donjayamanne.githistory",
+        "davidanson.vscode-markdownlint",
+        "wwm.better-align"
+    ]
+}
